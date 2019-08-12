@@ -1,0 +1,462 @@
+[DEBUG 2019-08-09 16:31:04]get_Browser Chrome
+[DEBUG 2019-08-09 16:31:09]Browser get http://192.168.102.109:8080/bss/#/
+[DEBUG 2019-08-09 16:31:09]clear
+[DEBUG 2019-08-09 16:31:09]send superadmin
+[DEBUG 2019-08-09 16:31:09]clear
+[DEBUG 2019-08-09 16:31:09]send 123456
+[DEBUG 2019-08-09 16:31:10]click by locator ('xpath', '//*[@id="root"]/div/div/article/form/div[4]/div/div/span/button')
+[DEBUG 2019-08-09 16:31:11]success login by user superadmin
+[DEBUG 2019-08-09 16:31:11]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="402dac3f17286b5440a5d5bcfdb79186")>, '_id': 'bc5cdb87-06a1-4240-81e5-7f8115ffc5e3', '_w3c': True}
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]前端页面变动,当前元素不在页面中
+[DEBUG 2019-08-09 16:31:12]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="402dac3f17286b5440a5d5bcfdb79186")>, '_id': '4964e177-29fc-4fa4-b968-38fbe620d5ab', '_w3c': True}
+[DEBUG 2019-08-09 16:31:14]clear
+[DEBUG 2019-08-09 16:31:14]send cmiotX28Vh
+[DEBUG 2019-08-09 16:31:14]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="402dac3f17286b5440a5d5bcfdb79186")>, '_id': '055378f9-72fa-4d58-b5b6-696e9e0418f4', '_w3c': True}
+[DEBUG 2019-08-09 16:31:16]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="402dac3f17286b5440a5d5bcfdb79186")>, '_id': '49ac92cd-9c21-44dc-92a5-bf0a982c016e', '_w3c': True}
+[DEBUG 2019-08-09 16:31:17]click by locator ('css selector', "div[title = '5 条/页']")
+[ERROR 2019-08-09 16:31:28]not find elements by 'tag name' ,elements name is 'td'
+[DEBUG 2019-08-09 16:31:29]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339488.png
+[ERROR 2019-08-09 16:31:29]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339488.png 没有找到元素  by tag name,elements name is td
+[DEBUG 2019-08-09 16:31:31]get_Browser Chrome
+[DEBUG 2019-08-09 16:31:36]Browser get http://192.168.102.109:8080/bss/#/
+[DEBUG 2019-08-09 16:31:36]clear
+[DEBUG 2019-08-09 16:31:37]send superadmin
+[DEBUG 2019-08-09 16:31:37]clear
+[DEBUG 2019-08-09 16:31:37]send 123456
+[DEBUG 2019-08-09 16:31:37]click by locator ('xpath', '//*[@id="root"]/div/div/article/form/div[4]/div/div/span/button')
+[DEBUG 2019-08-09 16:31:38]success login by user superadmin
+[ERROR 2019-08-09 16:31:38]restar Login
+[DEBUG 2019-08-09 16:31:41]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339500.png
+[ERROR 2019-08-09 16:31:41]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339500.png None
+[DEBUG 2019-08-09 16:31:43]close_Browser Chrome
+[DEBUG 2019-08-09 16:31:45]get_Browser Chrome
+[DEBUG 2019-08-09 16:31:51]Browser get http://192.168.102.109:8080/bss/#/
+[DEBUG 2019-08-09 16:31:51]clear
+[DEBUG 2019-08-09 16:31:51]send superadmin
+[DEBUG 2019-08-09 16:31:51]clear
+[DEBUG 2019-08-09 16:31:51]send 123456
+[DEBUG 2019-08-09 16:31:51]click by locator ('xpath', '//*[@id="root"]/div/div/article/form/div[4]/div/div/span/button')
+[DEBUG 2019-08-09 16:31:52]success login by user superadmin
+[DEBUG 2019-08-09 16:31:52]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:31:54]clear
+[DEBUG 2019-08-09 16:31:54]send nameEVIA
+[DEBUG 2019-08-09 16:31:54]clear
+[DEBUG 2019-08-09 16:31:54]send AccountuDxC
+[DEBUG 2019-08-09 16:31:54]clear
+[DEBUG 2019-08-09 16:31:54]send 17309013038
+[DEBUG 2019-08-09 16:31:55]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'd4cf0f29-6181-4f6a-827c-21e56480ecd4', '_w3c': True}
+[DEBUG 2019-08-09 16:31:56]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'b58f2812-2091-4f12-8cba-078cbed48f42', '_w3c': True}
+[DEBUG 2019-08-09 16:31:57]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '2efea81b-37e1-4fe0-859d-8f063ee9d5eb', '_w3c': True}
+[DEBUG 2019-08-09 16:32:00]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:01]clear
+[DEBUG 2019-08-09 16:32:01]send nameCPi0
+[DEBUG 2019-08-09 16:32:01]clear
+[DEBUG 2019-08-09 16:32:01]send AccountZn18
+[DEBUG 2019-08-09 16:32:01]clear
+[DEBUG 2019-08-09 16:32:02]send 17309013038
+[DEBUG 2019-08-09 16:32:02]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '5f2cec84-fd99-442b-8e39-51c69a9387be', '_w3c': True}
+[DEBUG 2019-08-09 16:32:04]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'ef05cff9-8389-48ff-9f63-b20d8724afb3', '_w3c': True}
+[DEBUG 2019-08-09 16:32:05]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:06]clear
+[DEBUG 2019-08-09 16:32:06]send name2Za5
+[DEBUG 2019-08-09 16:32:06]clear
+[DEBUG 2019-08-09 16:32:06]send AccountO6rH
+[DEBUG 2019-08-09 16:32:06]clear
+[DEBUG 2019-08-09 16:32:06]send 
+[DEBUG 2019-08-09 16:32:07]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '541e5571-d628-4ff6-a24c-e0ffe869225d', '_w3c': True}
+[DEBUG 2019-08-09 16:32:08]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7c7950d8-8fc0-40dc-9e35-94cc074459de', '_w3c': True}
+[DEBUG 2019-08-09 16:32:09]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'c420336d-f162-459e-8a6f-a3da6d2c92f1', '_w3c': True}
+[DEBUG 2019-08-09 16:32:11]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'ecc12f5d-6486-469d-acb8-4f68bfb76c55', '_w3c': True}
+[DEBUG 2019-08-09 16:32:12]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:13]clear
+[DEBUG 2019-08-09 16:32:13]send nameR1DL
+[DEBUG 2019-08-09 16:32:13]clear
+[DEBUG 2019-08-09 16:32:13]send 
+[DEBUG 2019-08-09 16:32:13]clear
+[DEBUG 2019-08-09 16:32:13]send 17309013038
+[DEBUG 2019-08-09 16:32:14]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '48bd7809-a2ce-4607-9365-96a020ca5f25', '_w3c': True}
+[DEBUG 2019-08-09 16:32:15]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'bac0cbec-f14f-4a63-8dc1-0a9ef24cbc13', '_w3c': True}
+[DEBUG 2019-08-09 16:32:16]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'f8a481f8-8d12-49e7-90d6-1af6cbd9513c', '_w3c': True}
+[DEBUG 2019-08-09 16:32:18]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'ca5d0b51-483a-462e-b2e5-132715262aa6', '_w3c': True}
+[DEBUG 2019-08-09 16:32:19]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:20]clear
+[DEBUG 2019-08-09 16:32:20]send 
+[DEBUG 2019-08-09 16:32:20]clear
+[DEBUG 2019-08-09 16:32:20]send AccountZgwn
+[DEBUG 2019-08-09 16:32:20]clear
+[DEBUG 2019-08-09 16:32:20]send 17309013038
+[DEBUG 2019-08-09 16:32:21]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '2443a8cd-5ec7-4074-8fa0-a6f216a3cd4b', '_w3c': True}
+[DEBUG 2019-08-09 16:32:22]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '14d9c332-49df-40f8-aca2-76d71abb2985', '_w3c': True}
+[DEBUG 2019-08-09 16:32:23]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '68901a15-0ffa-4179-8528-d8a3c94ecff9', '_w3c': True}
+[DEBUG 2019-08-09 16:32:25]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '73704d59-d05e-4e48-8f0c-e768d4d1f2e6', '_w3c': True}
+[DEBUG 2019-08-09 16:32:26]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:27]clear
+[DEBUG 2019-08-09 16:32:27]send testaERV
+[DEBUG 2019-08-09 16:32:27]clear
+[DEBUG 2019-08-09 16:32:27]send AccountmKA3
+[DEBUG 2019-08-09 16:32:27]clear
+[DEBUG 2019-08-09 16:32:28]send 17309013038
+[DEBUG 2019-08-09 16:32:28]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '93380e97-a429-49a7-939c-ab0b21428704', '_w3c': True}
+[DEBUG 2019-08-09 16:32:29]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'd1171ece-8622-4d79-8a50-fb397a2acf12', '_w3c': True}
+[DEBUG 2019-08-09 16:32:30]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '061cbc1c-9e46-4258-9c23-d15285a2baaa', '_w3c': True}
+[DEBUG 2019-08-09 16:32:31]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '1908ad51-abd7-4686-a5ab-64a7c9cae7e5', '_w3c': True}
+[DEBUG 2019-08-09 16:32:33]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:34]clear
+[DEBUG 2019-08-09 16:32:34]send _~@FLTG
+[DEBUG 2019-08-09 16:32:34]clear
+[DEBUG 2019-08-09 16:32:34]send testsQjp
+[DEBUG 2019-08-09 16:32:34]clear
+[DEBUG 2019-08-09 16:32:34]send 17309013038
+[DEBUG 2019-08-09 16:32:35]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '54128427-ca3b-4683-92ea-1afb235d0bee', '_w3c': True}
+[DEBUG 2019-08-09 16:32:36]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '404cc45b-fd47-4928-9b6d-787f5e09a594', '_w3c': True}
+[DEBUG 2019-08-09 16:32:37]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'f4b1265a-ebd9-4751-abd3-0037cb2a34db', '_w3c': True}
+[DEBUG 2019-08-09 16:32:38]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '97a2d6b1-604d-4aeb-9320-59c021e861b0', '_w3c': True}
+[DEBUG 2019-08-09 16:32:40]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '9a6781c6-7546-4488-b963-050a12ce42e0', '_w3c': True}
+[DEBUG 2019-08-09 16:32:41]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:42]clear
+[DEBUG 2019-08-09 16:32:42]send testT0i2
+[DEBUG 2019-08-09 16:32:42]clear
+[DEBUG 2019-08-09 16:32:42]send _@~HuRe
+[DEBUG 2019-08-09 16:32:42]clear
+[DEBUG 2019-08-09 16:32:43]send 17309013038
+[DEBUG 2019-08-09 16:32:43]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'f93cdd83-c10f-4f3f-b00c-b50d2ea87951', '_w3c': True}
+[DEBUG 2019-08-09 16:32:44]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '5a4f962f-b3bb-4785-b578-28629a09a6be', '_w3c': True}
+[DEBUG 2019-08-09 16:32:45]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '26701779-b8cd-4213-9c5c-f343c833362c', '_w3c': True}
+[DEBUG 2019-08-09 16:32:47]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'cff0e4d6-1378-4957-85f8-1f5041a1987f', '_w3c': True}
+[DEBUG 2019-08-09 16:32:48]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '51f9f680-63f1-4bc5-b90e-a2bb2a8f4293', '_w3c': True}
+[DEBUG 2019-08-09 16:32:49]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:50]clear
+[DEBUG 2019-08-09 16:32:50]send testdwpg
+[DEBUG 2019-08-09 16:32:50]clear
+[DEBUG 2019-08-09 16:32:51]send testB9I8
+[DEBUG 2019-08-09 16:32:51]clear
+[DEBUG 2019-08-09 16:32:51]send @~-
+[DEBUG 2019-08-09 16:32:51]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'b731366b-aeab-4e00-b948-7267a4ff68be', '_w3c': True}
+[DEBUG 2019-08-09 16:32:52]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'cdc30bde-19dd-4953-9fb1-6f59c25155f7', '_w3c': True}
+[DEBUG 2019-08-09 16:32:53]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'c34ff7f7-59ea-4b7d-b943-5a01ec1c869d', '_w3c': True}
+[DEBUG 2019-08-09 16:32:55]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '32b4ba86-9e81-489d-8a2e-fdffe5de921b', '_w3c': True}
+[DEBUG 2019-08-09 16:32:56]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '45402b5d-a1db-465a-99e5-f8bda2846ac2', '_w3c': True}
+[DEBUG 2019-08-09 16:32:57]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:32:58]clear
+[DEBUG 2019-08-09 16:32:58]send 中移物联网中国移动
+[DEBUG 2019-08-09 16:32:59]clear
+[DEBUG 2019-08-09 16:32:59]send testA172
+[DEBUG 2019-08-09 16:32:59]clear
+[DEBUG 2019-08-09 16:32:59]send 17309013038
+[DEBUG 2019-08-09 16:32:59]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7145bb50-0e46-4f39-8a77-5ec2164b7553', '_w3c': True}
+[DEBUG 2019-08-09 16:33:00]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '97e0cf73-e1ae-414a-9bf0-6688d89a8b18', '_w3c': True}
+[DEBUG 2019-08-09 16:33:02]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'c070ad34-6b33-4972-bd11-da35a094c062', '_w3c': True}
+[DEBUG 2019-08-09 16:33:09]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:33:09]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339589.png
+[ERROR 2019-08-09 16:33:09]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339589.png None
+[DEBUG 2019-08-09 16:33:09]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:33:10]clear
+[DEBUG 2019-08-09 16:33:11]send 中移物联网中国移动一
+[DEBUG 2019-08-09 16:33:11]clear
+[DEBUG 2019-08-09 16:33:11]send test2oLj
+[DEBUG 2019-08-09 16:33:11]clear
+[DEBUG 2019-08-09 16:33:11]send 17309013038
+[DEBUG 2019-08-09 16:33:11]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'c7f32915-89ef-44b8-9ac9-00c66e5e111e', '_w3c': True}
+[DEBUG 2019-08-09 16:33:12]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7df9e2ec-c1e3-4e79-9f19-f074f7815a44', '_w3c': True}
+[DEBUG 2019-08-09 16:33:14]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '9fadee75-41b7-49c7-b999-7fbce5a32d40', '_w3c': True}
+[DEBUG 2019-08-09 16:33:21]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:33:22]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339601.png
+[ERROR 2019-08-09 16:33:22]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339601.png None
+[DEBUG 2019-08-09 16:33:22]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:33:24]clear
+[DEBUG 2019-08-09 16:33:24]send 中移物联网中国移动一二
+[DEBUG 2019-08-09 16:33:24]clear
+[DEBUG 2019-08-09 16:33:24]send testjMvd
+[DEBUG 2019-08-09 16:33:24]clear
+[DEBUG 2019-08-09 16:33:25]send 17309013038
+[DEBUG 2019-08-09 16:33:25]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '06daf16e-50b6-459b-9fd1-d5e6f72d1004', '_w3c': True}
+[DEBUG 2019-08-09 16:33:26]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'dc786a19-92dc-4231-b22a-7d52147e5966', '_w3c': True}
+[DEBUG 2019-08-09 16:33:27]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '593c8d8f-a036-4476-afd2-a87e29092cbf', '_w3c': True}
+[DEBUG 2019-08-09 16:33:32]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '5f6ac398-4a21-412a-959d-4f7acc6f06a8', '_w3c': True}
+[DEBUG 2019-08-09 16:33:33]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:33:34]clear
+[DEBUG 2019-08-09 16:33:34]send cmiottest
+[DEBUG 2019-08-09 16:33:34]clear
+[DEBUG 2019-08-09 16:33:34]send test21M9
+[DEBUG 2019-08-09 16:33:34]clear
+[DEBUG 2019-08-09 16:33:35]send 17309013038
+[DEBUG 2019-08-09 16:33:35]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '78039bcf-19ec-4a0c-82e6-9b24bd8da9d7', '_w3c': True}
+[DEBUG 2019-08-09 16:33:36]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '9c48ffbe-91b4-4a6b-afe9-f71a526845e8', '_w3c': True}
+[DEBUG 2019-08-09 16:33:37]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '05cb4e9e-b88f-4c3f-8523-d95cb76a6666', '_w3c': True}
+[DEBUG 2019-08-09 16:33:44]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:33:45]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339624.png
+[ERROR 2019-08-09 16:33:45]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339624.png None
+[DEBUG 2019-08-09 16:33:45]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:33:46]clear
+[DEBUG 2019-08-09 16:33:46]send cmiottestY
+[DEBUG 2019-08-09 16:33:46]clear
+[DEBUG 2019-08-09 16:33:47]send testQF5L
+[DEBUG 2019-08-09 16:33:47]clear
+[DEBUG 2019-08-09 16:33:47]send 17309013038
+[DEBUG 2019-08-09 16:33:47]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'b0e6ef09-46d4-4aec-bcef-bfbb54680d11', '_w3c': True}
+[DEBUG 2019-08-09 16:33:48]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a7bea750-f287-4c0f-8d2b-23fabdb5b385', '_w3c': True}
+[DEBUG 2019-08-09 16:33:50]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '0f120209-8507-4cc6-9a2e-8d9767f64fcf', '_w3c': True}
+[DEBUG 2019-08-09 16:33:57]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:33:57]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339637.png
+[ERROR 2019-08-09 16:33:57]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339637.png None
+[DEBUG 2019-08-09 16:33:57]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:33:58]clear
+[DEBUG 2019-08-09 16:33:59]send cmiottestYY
+[DEBUG 2019-08-09 16:33:59]clear
+[DEBUG 2019-08-09 16:33:59]send testpZhE
+[DEBUG 2019-08-09 16:33:59]clear
+[DEBUG 2019-08-09 16:33:59]send 17309013038
+[DEBUG 2019-08-09 16:33:59]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'd3ff5c5e-0a09-420f-880c-68811cf34a07', '_w3c': True}
+[DEBUG 2019-08-09 16:34:01]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'f9a4b5e7-b649-4974-b492-6d2595d2ccaa', '_w3c': True}
+[DEBUG 2019-08-09 16:34:02]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'e0b578f5-8994-4930-ac41-4d6511e083ea', '_w3c': True}
+[DEBUG 2019-08-09 16:34:06]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '72ff137d-93f1-4e64-8201-2dd12d557093', '_w3c': True}
+[DEBUG 2019-08-09 16:34:08]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:34:09]clear
+[DEBUG 2019-08-09 16:34:09]send testcS65
+[DEBUG 2019-08-09 16:34:09]clear
+[DEBUG 2019-08-09 16:34:09]send 123456789wStrVmT8oI
+[DEBUG 2019-08-09 16:34:09]clear
+[DEBUG 2019-08-09 16:34:10]send 17309013038
+[DEBUG 2019-08-09 16:34:10]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'd814bbf3-987f-4790-93a0-0808799525bf', '_w3c': True}
+[DEBUG 2019-08-09 16:34:11]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '04de99ef-7ea2-403c-9eb8-be908c1bbd41', '_w3c': True}
+[DEBUG 2019-08-09 16:34:12]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '5f3b6cd1-9921-4139-89a8-9c6f7f3bab51', '_w3c': True}
+[DEBUG 2019-08-09 16:34:19]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:34:20]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339659.png
+[ERROR 2019-08-09 16:34:20]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339659.png None
+[DEBUG 2019-08-09 16:34:20]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:34:21]clear
+[DEBUG 2019-08-09 16:34:21]send test8y4G
+[DEBUG 2019-08-09 16:34:21]clear
+[DEBUG 2019-08-09 16:34:22]send 123456789AR6GOhifg45
+[DEBUG 2019-08-09 16:34:22]clear
+[DEBUG 2019-08-09 16:34:22]send 17309013038
+[DEBUG 2019-08-09 16:34:22]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'c33b3abb-5ff3-45c5-9547-8a6d1d6f630c', '_w3c': True}
+[DEBUG 2019-08-09 16:34:23]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'df4147b7-60b0-4a0c-9b80-96473d0428ff', '_w3c': True}
+[DEBUG 2019-08-09 16:34:25]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '5990b501-7b1e-4f52-a2dd-f1e888c7749a', '_w3c': True}
+[DEBUG 2019-08-09 16:34:32]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:34:32]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339672.png
+[ERROR 2019-08-09 16:34:32]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339672.png None
+[DEBUG 2019-08-09 16:34:32]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:34:34]clear
+[DEBUG 2019-08-09 16:34:34]send testMbpC
+[DEBUG 2019-08-09 16:34:34]clear
+[DEBUG 2019-08-09 16:34:34]send 123456789TNMb8vBU0HZE
+[DEBUG 2019-08-09 16:34:34]clear
+[DEBUG 2019-08-09 16:34:34]send 17309013038
+[DEBUG 2019-08-09 16:34:35]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '37321319-4fa6-43a4-ad6f-1ca50fdeb807', '_w3c': True}
+[DEBUG 2019-08-09 16:34:36]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '1c8d1d88-2932-4303-99ce-5b3b2bff7d13', '_w3c': True}
+[DEBUG 2019-08-09 16:34:37]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'bcc08dd6-5f6b-44cf-9b7a-8b6a179bcc07', '_w3c': True}
+[DEBUG 2019-08-09 16:34:42]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '0b50bbf0-4b52-4f15-8ab6-65585095b022', '_w3c': True}
+[DEBUG 2019-08-09 16:34:43]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:34:44]clear
+[DEBUG 2019-08-09 16:34:44]send testVpXi
+[DEBUG 2019-08-09 16:34:44]clear
+[DEBUG 2019-08-09 16:34:44]send cmiottestArEIsMXyZd
+[DEBUG 2019-08-09 16:34:44]clear
+[DEBUG 2019-08-09 16:34:45]send 17309013038
+[DEBUG 2019-08-09 16:34:45]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '0a8ee2d2-dbb1-4300-8acf-3e6c7cd08013', '_w3c': True}
+[DEBUG 2019-08-09 16:34:46]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '51a028ce-bcc7-49a6-bb85-9387d0328d46', '_w3c': True}
+[DEBUG 2019-08-09 16:34:47]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '50536fd3-a3c0-467f-9229-318c4a621d4c', '_w3c': True}
+[DEBUG 2019-08-09 16:34:54]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:34:55]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339694.png
+[ERROR 2019-08-09 16:34:55]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339694.png None
+[DEBUG 2019-08-09 16:34:55]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:34:56]clear
+[DEBUG 2019-08-09 16:34:56]send testYAXx
+[DEBUG 2019-08-09 16:34:56]clear
+[DEBUG 2019-08-09 16:34:57]send cmiottestjHEA2L9VRDe
+[DEBUG 2019-08-09 16:34:57]clear
+[DEBUG 2019-08-09 16:34:57]send 17309013038
+[DEBUG 2019-08-09 16:34:57]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'ecae5d42-f693-4534-bb8f-65bcfdc17b30', '_w3c': True}
+[DEBUG 2019-08-09 16:34:58]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '4389a311-8a7d-4dac-b7f5-51e160272b7e', '_w3c': True}
+[DEBUG 2019-08-09 16:35:00]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '89afad71-f271-485a-9c34-54aafdd72be6', '_w3c': True}
+[DEBUG 2019-08-09 16:35:07]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:35:07]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339707.png
+[ERROR 2019-08-09 16:35:07]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339707.png None
+[DEBUG 2019-08-09 16:35:07]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'a50d6fb1-524e-4233-972e-c80d05900323', '_w3c': True}
+[DEBUG 2019-08-09 16:35:09]clear
+[DEBUG 2019-08-09 16:35:09]send testLyVn
+[DEBUG 2019-08-09 16:35:09]clear
+[DEBUG 2019-08-09 16:35:09]send cmiottestZHPfabmsg3rX
+[DEBUG 2019-08-09 16:35:09]clear
+[DEBUG 2019-08-09 16:35:09]send 17309013038
+[DEBUG 2019-08-09 16:35:10]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '3f65977f-ef7b-46fc-ac63-74eacddc6f07', '_w3c': True}
+[DEBUG 2019-08-09 16:35:11]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '9decc3f6-e053-4fa3-af20-d67f3e485fc1', '_w3c': True}
+[DEBUG 2019-08-09 16:35:12]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7aec47c6-1657-4094-b1a2-377ab9e4c5f5', '_w3c': True}
+[DEBUG 2019-08-09 16:35:17]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7a0c2c38-a0b0-4e34-9195-25bc6982a15f', '_w3c': True}
+[DEBUG 2019-08-09 16:35:18]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:35:19]clear
+[DEBUG 2019-08-09 16:35:19]send nameO7Zf
+[DEBUG 2019-08-09 16:35:19]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:35:20]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339719.png
+[ERROR 2019-08-09 16:35:20]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339719.png None
+[DEBUG 2019-08-09 16:35:20]clear
+[DEBUG 2019-08-09 16:35:20]send 17309013038
+[DEBUG 2019-08-09 16:35:20]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '103ca52e-72ab-4f58-99c1-5c578b75c066', '_w3c': True}
+[DEBUG 2019-08-09 16:35:21]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '91757cdf-941a-4927-8740-48731f33a5b0', '_w3c': True}
+[DEBUG 2019-08-09 16:35:22]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'f98ad952-2041-472d-9112-78f208c6a663', '_w3c': True}
+[DEBUG 2019-08-09 16:35:23]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '70f5199e-5fe0-468e-9dce-e1476f69466d', '_w3c': True}
+[DEBUG 2019-08-09 16:35:25]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '30c3cb60-83ad-45c8-81a2-258872e47c38', '_w3c': True}
+[DEBUG 2019-08-09 16:35:29]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:35:30]clear
+[DEBUG 2019-08-09 16:35:30]send name43TM
+[DEBUG 2019-08-09 16:35:30]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:35:31]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339730.png
+[ERROR 2019-08-09 16:35:31]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339730.png None
+[DEBUG 2019-08-09 16:35:31]clear
+[DEBUG 2019-08-09 16:35:31]send 17309013038
+[DEBUG 2019-08-09 16:35:31]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '6b414b7d-0142-4c76-84ef-8fdd3d0318cc', '_w3c': True}
+[DEBUG 2019-08-09 16:35:32]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7f06ef6b-1e37-4be8-abff-99d61270bc1b', '_w3c': True}
+[DEBUG 2019-08-09 16:35:34]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'b29f129a-231b-4e1c-b1c4-53838a61050d', '_w3c': True}
+[DEBUG 2019-08-09 16:35:35]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '0a8174b5-472c-4a59-95df-2d042ca0cb08', '_w3c': True}
+[DEBUG 2019-08-09 16:35:36]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:35:43]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '2e581636-9a23-4156-8620-793d8114e2d9', '_w3c': True}
+[DEBUG 2019-08-09 16:35:45]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'c91a289b-2b7e-4575-b7a6-caa455ad8d5d', '_w3c': True}
+[DEBUG 2019-08-09 16:35:46]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:35:47]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '2013c192-2f58-4176-9ea5-37fefb68a9e3', '_w3c': True}
+[DEBUG 2019-08-09 16:35:54]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'e3fb16a6-21dc-46cb-91ca-44a19f0050e2', '_w3c': True}
+[DEBUG 2019-08-09 16:35:55]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:35:56]clear
+[DEBUG 2019-08-09 16:35:56]send _~@QxGB
+[DEBUG 2019-08-09 16:35:56]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:35:57]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339756.png
+[ERROR 2019-08-09 16:35:57]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339756.png None
+[DEBUG 2019-08-09 16:35:57]clear
+[DEBUG 2019-08-09 16:35:57]send 17309013038
+[DEBUG 2019-08-09 16:35:58]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'be78f031-2e63-4f76-9012-318a06abfa5f', '_w3c': True}
+[DEBUG 2019-08-09 16:35:59]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'b6d2a361-b0c4-4278-b033-07727746d90e', '_w3c': True}
+[DEBUG 2019-08-09 16:36:00]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:01]clear
+[DEBUG 2019-08-09 16:36:01]send testdBkc
+[DEBUG 2019-08-09 16:36:01]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:02]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339761.png
+[ERROR 2019-08-09 16:36:02]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339761.png None
+[DEBUG 2019-08-09 16:36:02]clear
+[DEBUG 2019-08-09 16:36:02]send @~-
+[DEBUG 2019-08-09 16:36:03]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '0a730eb2-977b-47e0-8088-290a1ea51ae4', '_w3c': True}
+[DEBUG 2019-08-09 16:36:04]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '6e98df81-8421-4844-a612-63ccc50aa563', '_w3c': True}
+[DEBUG 2019-08-09 16:36:05]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:06]clear
+[DEBUG 2019-08-09 16:36:06]send 中移物联网中国移动
+[DEBUG 2019-08-09 16:36:06]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:07]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339766.png
+[ERROR 2019-08-09 16:36:07]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339766.png None
+[DEBUG 2019-08-09 16:36:07]clear
+[DEBUG 2019-08-09 16:36:07]send 17309013038
+[DEBUG 2019-08-09 16:36:08]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '02151e3a-a608-4b4c-b34f-e35c64929152', '_w3c': True}
+[DEBUG 2019-08-09 16:36:12]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:36:12]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339772.png
+[ERROR 2019-08-09 16:36:12]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339772.png None
+[DEBUG 2019-08-09 16:36:12]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:13]clear
+[DEBUG 2019-08-09 16:36:14]send 中移物联网中国移动一
+[DEBUG 2019-08-09 16:36:14]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:14]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339774.png
+[ERROR 2019-08-09 16:36:14]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339774.png None
+[DEBUG 2019-08-09 16:36:14]clear
+[DEBUG 2019-08-09 16:36:14]send 17309013038
+[DEBUG 2019-08-09 16:36:15]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '1c661ddf-a762-4e28-8542-f811e7ad35cf', '_w3c': True}
+[DEBUG 2019-08-09 16:36:19]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:36:19]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339779.png
+[ERROR 2019-08-09 16:36:19]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339779.png None
+[DEBUG 2019-08-09 16:36:20]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:21]clear
+[DEBUG 2019-08-09 16:36:21]send 中移物联网中国移动一二
+[DEBUG 2019-08-09 16:36:21]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:21]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339781.png
+[ERROR 2019-08-09 16:36:21]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339781.png None
+[DEBUG 2019-08-09 16:36:21]clear
+[DEBUG 2019-08-09 16:36:22]send 17309013038
+[DEBUG 2019-08-09 16:36:22]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7b406031-8849-4f9e-8e0d-c43cf390c27a', '_w3c': True}
+[DEBUG 2019-08-09 16:36:24]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '7b560081-9a92-4a7e-b4b5-daf3450e12a4', '_w3c': True}
+[DEBUG 2019-08-09 16:36:25]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:26]clear
+[DEBUG 2019-08-09 16:36:26]send cmiottest
+[DEBUG 2019-08-09 16:36:26]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:27]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339786.png
+[ERROR 2019-08-09 16:36:27]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339786.png None
+[DEBUG 2019-08-09 16:36:27]clear
+[DEBUG 2019-08-09 16:36:27]send 17309013038
+[DEBUG 2019-08-09 16:36:27]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '390d08d2-f234-46a6-9cbb-9696348e76df', '_w3c': True}
+[DEBUG 2019-08-09 16:36:31]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:36:32]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339791.png
+[ERROR 2019-08-09 16:36:32]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339791.png None
+[DEBUG 2019-08-09 16:36:32]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:33]clear
+[DEBUG 2019-08-09 16:36:33]send cmiottestY
+[DEBUG 2019-08-09 16:36:33]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:34]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339793.png
+[ERROR 2019-08-09 16:36:34]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339793.png None
+[DEBUG 2019-08-09 16:36:34]clear
+[DEBUG 2019-08-09 16:36:34]send 17309013038
+[DEBUG 2019-08-09 16:36:35]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'e1706a27-fc00-473c-b905-77bf1540e9a9', '_w3c': True}
+[DEBUG 2019-08-09 16:36:39]元素 ('class name', 'ant-form-explain') 没有找到
+[DEBUG 2019-08-09 16:36:39]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339799.png
+[ERROR 2019-08-09 16:36:39]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339799.png None
+[DEBUG 2019-08-09 16:36:39]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '543f5275-f89e-4cd1-bb41-06b19ce584c8', '_w3c': True}
+[DEBUG 2019-08-09 16:36:40]clear
+[DEBUG 2019-08-09 16:36:41]send cmiottestYY
+[DEBUG 2019-08-09 16:36:41]元素  ('id', 'addAccountForm_loginAccount')不可编辑
+[DEBUG 2019-08-09 16:36:41]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339801.png
+[ERROR 2019-08-09 16:36:41]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339801.png None
+[DEBUG 2019-08-09 16:36:41]clear
+[DEBUG 2019-08-09 16:36:41]send 17309013038
+[DEBUG 2019-08-09 16:36:42]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '2876b03f-3676-47a7-a4f0-5c25d094d9fa', '_w3c': True}
+[DEBUG 2019-08-09 16:36:43]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '3389d2c0-f710-4b61-a94f-51dd6f1ca300', '_w3c': True}
+[DEBUG 2019-08-09 16:36:45]刷新界面
+[DEBUG 2019-08-09 16:36:45]clear
+[DEBUG 2019-08-09 16:36:46]send superadmin
+[DEBUG 2019-08-09 16:36:46]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '3cda74e0-449b-4b34-8de2-e2fc4134fd6c', '_w3c': True}
+[DEBUG 2019-08-09 16:36:48]刷新界面
+[DEBUG 2019-08-09 16:36:48]click by locator ('id', 'roleList')
+[DEBUG 2019-08-09 16:36:50]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': '63bc6921-88cb-4c59-89f1-83dd67ffb9ea', '_w3c': True}
+[DEBUG 2019-08-09 16:36:52]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339811.png
+[ERROR 2019-08-09 16:36:52]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339811.png None
+[DEBUG 2019-08-09 16:36:52]刷新界面
+[DEBUG 2019-08-09 16:36:52]click by locator ('id', 'sysUserStatus')
+[DEBUG 2019-08-09 16:36:54]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'cf0c870c-51f3-4b13-a3bc-26c0cd7d4ff2', '_w3c': True}
+[DEBUG 2019-08-09 16:36:57]刷新界面
+[DEBUG 2019-08-09 16:36:57]click by locator ('id', 'sysUserStatus')
+[DEBUG 2019-08-09 16:36:58]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="fc08cdc2b40073483b5ba754a182a63d")>, '_id': 'e5eebc40-2154-4408-b933-a30204969f0e', '_w3c': True}
+[ERROR 2019-08-09 16:37:10]not find elements by 'tag name' ,elements name is 'td'
+[DEBUG 2019-08-09 16:37:10]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339830.png
+[ERROR 2019-08-09 16:37:10]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339830.png 没有找到元素  by tag name,elements name is td
+[DEBUG 2019-08-09 16:37:13]get_Browser Chrome
+[DEBUG 2019-08-09 16:37:17]Browser get http://192.168.102.109:8080/bss/#/
+[DEBUG 2019-08-09 16:37:17]clear
+[DEBUG 2019-08-09 16:37:18]send superadmin
+[DEBUG 2019-08-09 16:37:18]clear
+[DEBUG 2019-08-09 16:37:18]send 123456
+[DEBUG 2019-08-09 16:37:18]click by locator ('xpath', '//*[@id="root"]/div/div/article/form/div[4]/div/div/span/button')
+[DEBUG 2019-08-09 16:37:19]success login by user superadmin
+[ERROR 2019-08-09 16:37:19]restar Login
+[DEBUG 2019-08-09 16:37:19]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339839.png
+[ERROR 2019-08-09 16:37:19]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339839.png None
+[DEBUG 2019-08-09 16:37:20]刷新界面
+[DEBUG 2019-08-09 16:37:20]clear
+[DEBUG 2019-08-09 16:37:21]send superadmin
+[DEBUG 2019-08-09 16:37:21]click by locator ('id', 'roleList')
+[DEBUG 2019-08-09 16:37:22]click by locator ('id', 'sysUserStatus')
+[DEBUG 2019-08-09 16:37:23]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="c20e705ae84eea81f028c224a5bec6df")>, '_id': 'b146ad1f-bc7c-47d5-aefa-e3acbc026e0d', '_w3c': True}
+[DEBUG 2019-08-09 16:37:28]close_Browser Chrome
+[DEBUG 2019-08-09 16:37:30]get_Browser Chrome
+[DEBUG 2019-08-09 16:37:34]Browser get http://192.168.102.109:8080/bss/#/
+[DEBUG 2019-08-09 16:37:34]clear
+[DEBUG 2019-08-09 16:37:35]send superadmin
+[DEBUG 2019-08-09 16:37:35]clear
+[DEBUG 2019-08-09 16:37:35]send 123456
+[DEBUG 2019-08-09 16:37:35]click by locator ('xpath', '//*[@id="root"]/div/div/article/form/div[4]/div/div/span/button')
+[DEBUG 2019-08-09 16:37:36]success login by user superadmin
+[DEBUG 2019-08-09 16:37:36]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="97b7cf1e6a6934d6feada1ed259cbb91")>, '_id': '23d71b14-3078-42ba-ad4e-8b34efb29bf8', '_w3c': True}
+[DEBUG 2019-08-09 16:37:38]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="97b7cf1e6a6934d6feada1ed259cbb91")>, '_id': '3f46ad53-f68e-42f2-ae8f-2c43f55d6397', '_w3c': True}
+[DEBUG 2019-08-09 16:37:46]get_screenshot_as_file C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339866.png
+[ERROR 2019-08-09 16:37:46]失败的用例，已在异常处截图 :C:/Users/lyc/workspace/Web_Automation-master/Picture/1565339866.png None
+[DEBUG 2019-08-09 16:37:54]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="97b7cf1e6a6934d6feada1ed259cbb91")>, '_id': 'f8f294b5-05ac-4d18-b4f3-6bfcdb090dd3', '_w3c': True}
+[DEBUG 2019-08-09 16:37:55]click {'_parent': <selenium.webdriver.chrome.webdriver.WebDriver (session="97b7cf1e6a6934d6feada1ed259cbb91")>, '_id': 'eedb0ba6-27d3-49f1-ae5c-025f79c20e3f', '_w3c': True}
+[DEBUG 2019-08-09 16:37:58]close_Browser Chrome
